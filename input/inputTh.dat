@@ -1,0 +1,11 @@
+[FirstElemData]
+Elem   = "Th"
+Mass   = 232
+Weight = 1.0    ;gram
+
+[OdeSolvData]
+Inittime = 0         ;in seconds
+Stoptime = 86400000  ;in seconds
+Step     = 10000      ;in seconds
+ABSERR   = 1.0e-5
+RELERR   = 1.0e-5

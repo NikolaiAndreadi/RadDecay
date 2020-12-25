@@ -1,0 +1,11 @@
+[FirstElemData]
+Elem   = "U"
+Mass   = 238
+Weight = 10.0    ;gram
+
+[OdeSolvData]
+Inittime = 0           ;in seconds
+Stoptime = 1734000000  ;in seconds
+Step     = 604800     ;in seconds
+ABSERR   = 1.0e-16
+RELERR   = 1.0e-16
